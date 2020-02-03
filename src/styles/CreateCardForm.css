@@ -1,0 +1,16 @@
+.createCardForm {
+    width: 15%;
+    min-width: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    height: 70px;
+}
+.confirmButton {
+    height: 30px;
+}
+.cardTitleInputField {
+    height: 30px;
+    width: 190px;
+}

@@ -1,0 +1,12 @@
+.board {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    white-space: nowrap;
+}
+.addButton {
+    background-color: darkolivegreen;
+    border-radius: 2px;
+    max-height: 30px;
+    color: #ffffff;
+}

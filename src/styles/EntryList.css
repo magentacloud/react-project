@@ -1,0 +1,15 @@
+.entryList {
+    background-color: #d1e0e0;
+    min-width: 200px;
+    min-height: 400px;
+    width: 15%;
+    border-radius: 6px;
+  }
+  .title {
+    border: 1px solid #000000;
+    background-color: #ffffff;
+  }
+  .CreateCardButton{
+    background-color: cadetblue;
+    border-radius: 3px;
+  }
